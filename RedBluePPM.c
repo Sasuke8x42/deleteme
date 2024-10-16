@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+/* Makenna is adding a comment here */
+
 /* 
  *   This is a c program to create a red and blue plain pixel map.
  *   Usage: 
